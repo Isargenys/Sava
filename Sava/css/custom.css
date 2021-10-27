@@ -1,0 +1,19 @@
+body { margin-bottom: 2%; }
+
+.sectionTitle { color: #003399; font-weight: 500; font-size: 24px; }
+
+.sectionFormContainer { 
+    border-top: 2.5px solid #003399; 
+    border-bottom: 2.5px solid #003399;
+    padding-top: 16px;
+    margin-bottom: 2%;
+}
+
+.sectionFormContainer_unborder { border-top: 2.5px solid #003399; padding-top: 16px; }
+
+a.btn-light, button.btn-light { color: #003399 !important; }
+a.btn-light.active, button.btn-light.active { color: #003399 !important; font-weight: 500; }
+
+textarea { resize: none !important; }
+
+.currencyType { padding-left: 0px; }
